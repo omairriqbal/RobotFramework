@@ -70,7 +70,7 @@ Validate Raast Transaction
 Verify the Data on Review Details Page
     ReviewDetailsPage.Verify Data is Correct on Review Details Page
 
-    Wait Until Page Contains Element                      ${Send-Money-Button}        timeout=40
+    Wait Until Page Contains Element                      ${Proceed-Button}        timeout=40
     ReviewDetailsPage.Click Send Money On Review Details Page
     Authentication.Enter PIN                              ${ValidUser_Pin}
     Wait Until Page Contains Element                      ${Done_Button}          timeout=30

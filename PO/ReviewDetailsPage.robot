@@ -5,7 +5,7 @@ Library             AppiumLibrary
 Resource            GenericResource.robot
 
 *** Variables ***
-${Send-Money-Button}        //*[@text='SEND MONEY']
+${Proceed-Button}        //*[@text='Proceed']
 ${Review_Details_Title}     //*[@text='Transfer to RAAST']
 ${Date_Text}                //*[@text='Date']
 ${From_Text}                //*[@text='From']
@@ -16,7 +16,7 @@ ${Total_Text}                   //*[@text='Total']
 ${Pay_Now_Button}               //*[@text='PAY NOW']
 *** Keywords ***
 Click Send Money On Review Details Page
-    Click Element           ${Send-Money-Button}
+    Click Element           ${Proceed-Button}
 Click on Pay Now Button On Review Details Screen
     Click Element           ${Pay_Now_Button}
 

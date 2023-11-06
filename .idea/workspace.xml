@@ -4,14 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df7d7b15-540a-4bdb-b09c-056735734f60" name="Changes" comment="" />
+    <list default="true" id="df7d7b15-540a-4bdb-b09c-056735734f60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/Authentication.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/Authentication.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/GenericResource.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/GenericResource.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/HomePage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/HomePage.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/LoginPage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/LoginPage.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/MoveMoneyPage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/MoveMoneyPage.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PO/ReviewDetailsPage.robot" beforeDir="false" afterPath="$PROJECT_DIR$/PO/ReviewDetailsPage.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Login.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Login.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MoveMoney.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MoveMoney.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/output.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/output.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/report.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tests" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SSyztXNZcsLFlz7V5F4AwpBpUc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,14 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Automation/Zindigi-Robot-Automation",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation/ZindigiRebrand-Robot-Automation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Robot.LoginPage">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="ZindigiAutomation" />

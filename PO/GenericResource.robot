@@ -8,8 +8,8 @@ Resource            ../PO/Navigation.robot
 
 
 *** Variables ***
-${ValidUser_Number}             03327864321
-${ValidUser_Pin}                9753
+${ValidUser_Number}             3327864321
+${ValidUser_Pin}                1234
 ${Receiver_Mobile_Number}       03365570751
 ${Receiver_Nick}                Ahmad
 ${Entered_Amount}               1
